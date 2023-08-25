@@ -21007,9 +21007,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess3",
       "projectName": "BlankProcess3",
-      "projectPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\BlankProcess3\\.local",
+      "projectPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\BlankProcess3\\.local",
       "packagesPath": "C:\\Users\\msomondi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\BlankProcess3\\.local"
+      "outputPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\BlankProcess3\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

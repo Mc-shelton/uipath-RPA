@@ -21007,9 +21007,9 @@
     "restore": {
       "projectUniqueName": "challenge2",
       "projectName": "challenge2",
-      "projectPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\challenge2\\.local",
+      "projectPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\challenge2\\.local",
       "packagesPath": "C:\\Users\\msomondi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\challenge2\\.local"
+      "outputPath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\challenge2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

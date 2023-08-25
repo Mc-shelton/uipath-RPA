@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXk0JvCtp1EPaZk2BvKh0FF7K2MSfB2UPSRco+Ifrj8eV8xDFvTt9eMpLg+qeEIikeceQ4I/pqSSjgKYa4XbNg==",
+  "dgSpecHash": "1ZuhSbEkyA+rbF4QovDJF7GD0+2l5hHyfYyJ9SI5VyxPO0fO4uC2/gphxnbTtvzQ2xNSzd7H5K22dX8J4iyLPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\challenge2\\.local\\",
+  "projectFilePath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\challenge2\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\msomondi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\msomondi\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

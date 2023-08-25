@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5T7LT1/4zUa8AnEN7jbcXLQ1lW6bjRykt4Df2nQNlovJbOPR2LYFvbUBF0hQciRUikxP6Vjy0uqNbQNoTKwnqw==",
+  "dgSpecHash": "KXmHEU785Cei0WnVcs2Doyjp8/i9oqvzVptJ+moc8AspcDFJ6qRZRN4TAWfPasq0M7qlO00rgFFFFhdKNUlD+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\BlankProcess3\\.local\\",
+  "projectFilePath": "C:\\Users\\msomondi\\OneDrive - SAFARICOM PLC\\Documents\\UiPath\\uipath - RPA\\BlankProcess3\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\msomondi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\msomondi\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
